@@ -6,8 +6,9 @@
 <h3 align="center">Its has 3-d star with Earth and Random Quote generater on click</h3>
 
 <h4 align="center">
+  
 
-To see click [Here](https://pinak3748.github.io/EarhQuotes/) or visit _https://pinak3748.github.io/EarhQuotes_
+To see click here.[Here](https://pinak3748.github.io/EarhQuotes/) or visit _https://pinak3748.github.io/EarhQuotes_
 
 </h4>
 
